@@ -1,0 +1,3352 @@
+[
+    {
+        "id": 1,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, нарисуй маленькую ёлочку из зелёных карандашей и укрась её блестящими кружочками."
+    },
+    {
+        "id": 2,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, возьми любимую игрушку и расскажи ей зимнюю сказку про снеговика."
+    },
+    {
+        "id": 3,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, слепи из пластилина снежинку и повесь на видное место."
+    },
+    {
+        "id": 4,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, найди дома три вещи зелёного цвета - это волшебные украшения для ёлки!"
+    },
+    {
+        "id": 5,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, нарисуй морозные узоры на воображаемом окне."
+    },
+    {
+        "id": 6,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, сделай бумажную снежинку, подари ее или укрась дом."
+    },
+    {
+        "id": 7,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, выложи из кубиков домик для Деда Мороза."
+    },
+    {
+        "id": 8,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, найди пару варежек и надень их на игрушки - пусть греются!"
+    },
+    {
+        "id": 9,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, нарисуй следы маленьких сапожек в снегу."
+    },
+    {
+        "id": 10,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, сделай из фольги звёздочку и повесь на люстру."
+    },
+    {
+        "id": 11,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, расскажи кукле про зимний лес и покажи пальчиками снег."
+    },
+    {
+        "id": 12,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, нарисуй радугу из леденцов."
+    },
+    {
+        "id": 13,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, слепи из хлебного мякиша снежинка."
+    },
+    {
+        "id": 14,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, найди дома что-то блестящее - это подарок от Снегурочки!"
+    },
+    {
+        "id": 15,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, сделай снежный шарик из ваты."
+    },
+    {
+        "id": 16,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, на прогулке найди снежинку на ветке и покажи взрослому."
+    },
+    {
+        "id": 17,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, собери веточку, шишку и камушек - это клад зимы!"
+    },
+    {
+        "id": 18,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, нарисуй мелом на снегу сердечко."
+    },
+    {
+        "id": 19,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, найди на улице что-то красное - это волшебный знак!"
+    },
+    {
+        "id": 20,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, послушай, как хрустит снег под ногами."
+    },
+    {
+        "id": 21,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "christmas_eve"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, помоги зажечь одну свечку и загадать желание."
+    },
+    {
+        "id": 22,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "christmas_day"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, обними всех в семье и скажи 'с праздником!'"
+    },
+    {
+        "id": 23,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, похлопай в ладошки, когда бьют куранты!"
+    },
+    {
+        "id": 24,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, напиши 3 вещи, за которые благодарен сегодня."
+    },
+    {
+        "id": 25,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, придумай имя для снежинки и нарисуй её."
+    },
+    {
+        "id": 26,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, напиши письмо Деду Морозу (3 предложения)."
+    },
+    {
+        "id": 27,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, нарисуй карту пути Деда Мороза к твоему дому."
+    },
+    {
+        "id": 28,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, сделай открытку для мамы с зимним рисунком."
+    },
+    {
+        "id": 29,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, придумай сказку про снеговичка (5 предложений)."
+    },
+    {
+        "id": 30,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, запиши 3 зимних запаха, которые любишь."
+    },
+    {
+        "id": 31,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, собери зимний гербарий: лист, ветка, шишка."
+    },
+    {
+        "id": 32,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, слепи снеговика и надень ему шарфик."
+    },
+    {
+        "id": 33,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, напиши 3 цели на декабрь и повесь на видное место."
+    },
+    {
+        "id": 34,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, сделай уборку в одном ящике без напоминания."
+    },
+    {
+        "id": 35,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, запиши 3 урока 2025 года в тетрадь."
+    },
+    {
+        "id": 36,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, разбери одну полку - порядок рождает чудеса."
+    },
+    {
+        "id": 37,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, попроси родителей рассказать про зимние традиции их детства и запиши историю."
+    },
+    {
+        "id": 38,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, сделай снежного ангела на прогулке и улыбнись прохожим."
+    },
+    {
+        "id": 39,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, пройди пять шагов по снегу и посчитай, сколько звуков слышно вокруг."
+    },
+    {
+        "id": 40,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "christmas_eve"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, напиши письмо-заклинание хорошего настроения и оставь его под подушкой."
+    },
+    {
+        "id": 41,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "christmas_day"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, помоги подготовить праздничный стол, укрась его своими рисунками."
+    },
+    {
+        "id": 42,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, придумаи на Новый год три волшебных добрых дела и сделай одно из них."
+    },
+    {
+        "id": 43,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, напиши дневник благодарности за каждый день недели."
+    },
+    {
+        "id": 44,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, сделай список своих лучших зимних воспоминаний."
+    },
+    {
+        "id": 45,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, выбери одну привычку, которая поможет начать новый год с чистого листа."
+    },
+    {
+        "id": 46,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, устрой зимнюю прогулку с семьёй и сфотографируй самые красивые моменты."
+    },
+    {
+        "id": 47,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, поделись с другом тёплой историей о зимних праздниках."
+    },
+    {
+        "id": 48,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "christmas_eve"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, подари семье ночник в форме звезды и расскажи её историю."
+    },
+    {
+        "id": 49,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "christmas_day"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, постарайся весь день видеть только хорошее и записывай свои ощущения."
+    },
+    {
+        "id": 50,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, составь список трёх честных намерений и повесь их на видном месте."
+    },
+    {
+        "id": 51,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, удели 20 минут планированию нового года с тёплыми мыслями и картой целей."
+    },
+    {
+        "id": 52,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, подумай о трёх важных уроках этого года и запиши их."
+    },
+    {
+        "id": 53,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, устрой вечер без гаджетов, посвяти время семье и близким."
+    },
+    {
+        "id": 54,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, прогуляйся на свежем воздухе и ощути зимнюю тишину."
+    },
+    {
+        "id": 55,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "christmas_eve"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, вспомни людей, которых не было рядом в этом году, и пошли им тёплое пожелание."
+    },
+    {
+        "id": 56,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "christmas_day"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, приготовь маленький знак внимания для каждого члена семьи."
+    },
+    {
+        "id": 57,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, составь список намерений, как заботиться о себе, семье и окружающем мире."
+    },
+    {
+        "id": 71,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "christmas_eve"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, помоги взрослым украсить ёлку игрушками."
+    },
+    {
+        "id": 72,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "christmas_day"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, спой новогоднюю песенку для всех в семье."
+    },
+    {
+        "id": 73,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, посчитай, сколько снежинок нарисуешь на бумаге."
+    },
+    {
+        "id": 74,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "christmas_eve"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, напиши письмо с пожеланиями всем своим близким."
+    },
+    {
+        "id": 75,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "christmas_day"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, помоги приготовить праздничный салат или десерт."
+    },
+    {
+        "id": 76,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, придумай и расскажи друзьям новогоднюю легенду."
+    },
+    {
+        "id": 77,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "christmas_eve"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, сделай тёплую открытку и отправь её другу."
+    },
+    {
+        "id": 78,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "christmas_day"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, организуй семейный киновечер с любимыми фильмами."
+    },
+    {
+        "id": 79,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, создай коллаж из фотографий уходящего года."
+    },
+    {
+        "id": 80,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "christmas_eve"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, напиши письмо благодарности значимому человеку."
+    },
+    {
+        "id": 81,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "christmas_day"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, укрась дом гирляндами и свечами своими руками."
+    },
+    {
+        "id": 82,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, составь план личного развития на следующий год."
+    },
+    {
+        "id": 83,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, собери из игрушек на полу целую сказочную деревню."
+    },
+    {
+        "id": 84,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, сделай из цветной бумаги бумажного снеговика."
+    },
+    {
+        "id": 85,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, спой песенку про зиму и потанцуй."
+    },
+    {
+        "id": 86,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, поиграй в прятки на свежем воздухе с близкими."
+    },
+    {
+        "id": 87,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, сделай бумажную гирлянду для украшения комнаты."
+    },
+    {
+        "id": 88,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, придумай 3 новогодних загадки и загадай их семье."
+    },
+    {
+        "id": 89,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, напиши рассказ о самом ярком моменте зимы."
+    },
+    {
+        "id": 90,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, проверь погоду и сделай запасы для зимней прогулки."
+    },
+    {
+        "id": 91,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, организуй вечер настольных игр для семьи."
+    },
+    {
+        "id": 92,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, сделай долгую зимнюю прогулку в тишине с мыслями о новом годе."
+    },
+    {
+        "id": 93,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, напиши письмо себе с планами на будущее и дату открой ровно через год."
+    },
+    {
+        "id": 94,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, сделай аппликацию из разноцветной бумаги с зимней темой."
+    },
+    {
+        "id": 95,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, расскажи сказку, где главный герой — любящий снеговик."
+    },
+    {
+        "id": 96,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, найдите с родителями на улице разные виды снега и опишите их."
+    },
+    {
+        "id": 97,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, сделай следы лапок животных из бумаги и выклади на снегу."
+    },
+    {
+        "id": 98,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, напиши письмо доброму зимнему волшебнику и попроси у него что-нибудь хорошее."
+    },
+    {
+        "id": 99,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, придумай и расскажи друзьям историю о зимнем приключении."
+    },
+    {
+        "id": 100,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, собери коллекцию зимних природных объектов: ветки, шишки, ягоды."
+    },
+    {
+        "id": 101,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, устрой семейный праздник с играми на свежем воздухе."
+    },
+    {
+        "id": 102,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, напиши стихотворение о зиме или Новый год."
+    },
+    {
+        "id": 103,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, создай иллюстрацию для своей любимой новогодней книги."
+    },
+    {
+        "id": 104,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, устрой прогулку с друзьями и сделай фотопрогулку зимнего города."
+    },
+    {
+        "id": 105,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, посади зимнюю зелень в горшок и ухаживай за ней."
+    },
+    {
+        "id": 106,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, познакомься с новым рецептом и приготовь зимнее блюдо."
+    },
+    {
+        "id": 107,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, сделай благотворительное пожертвование или помоги другу."
+    },
+    {
+        "id": 108,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, устрой зимнюю фотоохоту и заполни альбом."
+    },
+    {
+        "id": 109,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, устрой пикник с горячим чаем на свежем воздухе."
+    },
+    {
+        "id": 110,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "christmas_eve"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, помоги приготовить праздничное печенье."
+    },
+    {
+        "id": 111,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "christmas_day"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, расскажи всей семье, что тебе подарил Дед Мороз."
+    },
+    {
+        "id": 112,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, сожги бумажку с желаниями в огне свечи и загадай новое."
+    },
+    {
+        "id": 113,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "christmas_eve"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, испеки и укрась пряничного человечка."
+    },
+    {
+        "id": 114,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "christmas_day"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, сделай поздравительное видео с новогодней песней."
+    },
+    {
+        "id": 115,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, напиши список целей на следующий год и повесь на холодильник."
+    },
+    {
+        "id": 116,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "christmas_eve"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, организуй для семьи новогодний квест."
+    },
+    {
+        "id": 117,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "christmas_day"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, сыграй на музыкальном инструменте новогоднюю мелодию."
+    },
+    {
+        "id": 118,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, выполни 15 минут упражнений для хорошего настроения."
+    },
+    {
+        "id": 119,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "christmas_eve"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, подготовь поздравления на бумаге для друзей и семьи."
+    },
+    {
+        "id": 120,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "christmas_day"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, устрой вечер чтения новогодних историй."
+    },
+    {
+        "id": 121,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, запланируй три важных шага для личного развития в новом году."
+    },
+    {
+        "id": 122,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, вырежи из бумаги снежинки и укрась ими окно."
+    },
+    {
+        "id": 123,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, придумай сказку про маленького оленёнка."
+    },
+    {
+        "id": 124,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, составь пазл на зимнюю тему."
+    },
+    {
+        "id": 125,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, устрой снежный поход по лесу с родителями."
+    },
+    {
+        "id": 126,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, нарисуй комикс о зимних приключениях."
+    },
+    {
+        "id": 127,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, начни вести дневник благодарности."
+    },
+    {
+        "id": 128,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, исследуй следы животных на снегу с родителями."
+    },
+    {
+        "id": 129,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, попробуй сделать катание на санках."
+    },
+    {
+        "id": 130,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, сходи на каток с друзьями."
+    },
+    {
+        "id": 131,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, отправься в зимний поход."
+    },
+    {
+        "id": 132,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, сделай из ватных шариков снежную шапку для любимой игрушки."
+    },
+    {
+        "id": 133,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, расскажи сказку со снегирями и зимними птичками."
+    },
+    {
+        "id": 134,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, на прогулке собери красивые зимние камушки и листочки."
+    },
+    {
+        "id": 135,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, сделай снежную гирлянду из бумажных фигурок."
+    },
+    {
+        "id": 136,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, попробуй нарисовать зимний пейзаж гуашью."
+    },
+    {
+        "id": 137,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, напиши письмо Деду Морозу и попроси что-то доброе для семьи."
+    },
+    {
+        "id": 138,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, устрой фотосессию зимних растений на прогулке."
+    },
+    {
+        "id": 139,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, построй из снега маленький домик."
+    },
+    {
+        "id": 140,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, составь зимний плейлист и поделись с друзьями."
+    },
+    {
+        "id": 141,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, напиши в блог или дневник о своих зимних мечтах."
+    },
+    {
+        "id": 142,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, организуй зимний пикник на природе."
+    },
+    {
+        "id": 143,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, попробуй катание на лыжах или коньках."
+    },
+    {
+        "id": 144,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, составь план саморазвития на зиму."
+    },
+    {
+        "id": 145,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, напиши благодарственное письмо важному человеку."
+    },
+    {
+        "id": 146,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, пройди маршрут зимней прогулки и сделай фото отчёт."
+    },
+    {
+        "id": 147,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, устрой вечер уютных посиделок с друзьями."
+    },
+    {
+        "id": 148,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "christmas_eve"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, помоги приготовить праздничный пирог."
+    },
+    {
+        "id": 149,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "christmas_day"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, поздравь всех с праздником песней или стишком."
+    },
+    {
+        "id": 150,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, сделай поделку-звезду и повесь на окно."
+    },
+    {
+        "id": 151,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "christmas_eve"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, создай авторскую открытку с зимним пейзажем."
+    },
+    {
+        "id": 152,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "christmas_day"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, придумай игру для всей семьи с новогодней тематикой."
+    },
+    {
+        "id": 153,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, придумай 3 подарка, которые хочешь сделать друзьям."
+    },
+    {
+        "id": 154,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "christmas_eve"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, организуй музыкальное поздравление для близких."
+    },
+    {
+        "id": 155,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "christmas_day"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, попробуй новые новогодние рецепты и поделись ими."
+    },
+    {
+        "id": 156,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, создай видеопоздравление для друзей и семьи."
+    },
+    {
+        "id": 157,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "christmas_eve"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, проведи вечер медитации в преддверии праздника."
+    },
+    {
+        "id": 158,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "christmas_day"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, инициируй совместное чтение зимних историй."
+    },
+    {
+        "id": 159,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, подведи итоги года и запланируй новогодние цели."
+    },
+    {
+        "id": 160,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, сделай снежный человек из сенсорной массы или пластилина."
+    },
+    {
+        "id": 161,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, поиграй в ледяные гонки на улице с друзьями."
+    },
+    {
+        "id": 162,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, нарисуй и подпиши зимнюю карту своих эмоций."
+    },
+    {
+        "id": 163,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, напиши рассказ о главном зимнем приключении своей жизни."
+    },
+    {
+        "id": 164,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, составь список благодарности за этот год."
+    },
+    {
+        "id": 165,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, поиграй в снежки и построй маленькую снежную крепость."
+    },
+    {
+        "id": 166,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, нарисуй палочкой на снегу звёздочку."
+    },
+    {
+        "id": 167,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, сделай коллаж из вырезок с новогодней тематикой."
+    },
+    {
+        "id": 168,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, устрой игру в снежковый боулинг с друзьями."
+    },
+    {
+        "id": 169,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, напиши письмо Деду Морозу в стихах."
+    },
+    {
+        "id": 170,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, сделай дневник зимней прогулки с фото и заметками."
+    },
+    {
+        "id": 171,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, подумай о трёх добрых делах, которые можно осуществить в январе."
+    },
+    {
+        "id": 172,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, сходи на зимний рынок или ярмарку."
+    },
+    {
+        "id": 173,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "christmas_eve"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, помоги нарядить ёлку игрушками и дождиком."
+    },
+    {
+        "id": 174,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "christmas_day"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, спой веселую песенку со всеми за столом."
+    },
+    {
+        "id": 175,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, придумай и нарисуй свои новогодние костюмы."
+    },
+    {
+        "id": 176,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, напиши письмо себе через 5 лет о своих мечтах и планах."
+    },
+    {
+        "id": 177,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, спланируй свой день на 1 января с множеством тёплых моментов."
+    },
+    {
+        "id": 178,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, сделай аппликацию из хлопьев ваты на рисунке."
+    },
+    {
+        "id": 179,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, создайте вместе с родителями новогодний календарь обратного отсчёта."
+    },
+    {
+        "id": 180,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, вместе с друзьями организуйте зимнее спортивное мероприятие."
+    },
+    {
+        "id": 181,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, устрой долгую прогулку с фотографированием зимних пейзажей."
+    },
+    {
+        "id": 182,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, слепи снеговика и укрась его шарфом."
+    },
+    {
+        "id": 183,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, придумай зимнюю загадку и загадай её семье."
+    },
+    {
+        "id": 184,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, попробуй новый зимний рецепт и расскажи о нём друзьям."
+    },
+    {
+        "id": 185,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, проведи небольшой концерт или музыкальный вечер дома."
+    },
+    {
+        "id": 186,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, сделай из бумаги красочную елочную игрушку."
+    },
+    {
+        "id": 187,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, нарисуй своего зимнего друга и покажи маме или папе."
+    },
+    {
+        "id": 188,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, вместе с семьёй постройте снеговика и назовите его."
+    },
+    {
+        "id": 189,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, найдите на улице разноцветные листья и сделайте из них гербарий."
+    },
+    {
+        "id": 190,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, попробуй приготовить новогоднее печенье вместе с родителями."
+    },
+    {
+        "id": 191,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, нарисуй карту своих зимних приключений."
+    },
+    {
+        "id": 192,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, устрой игру в снежные фигуры на улице."
+    },
+    {
+        "id": 193,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, напиши письмо благодарности близкому человеку."
+    },
+    {
+        "id": 194,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, участвуй в зимнем волонтёре или помоги соседям."
+    },
+    {
+        "id": 195,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, сделай план личного роста на весь Новый год."
+    },
+    {
+        "id": 196,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, организуй фотопрогулку с друзьями в зимнем парке."
+    },
+    {
+        "id": 197,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "christmas_eve"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, помоги взрослым зажечь гирлянду на ёлке."
+    },
+    {
+        "id": 198,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "christmas_day"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, спой семейную песенку у праздничного стола."
+    },
+    {
+        "id": 199,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, нарисуй план подарков для друзей."
+    },
+    {
+        "id": 200,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, напиши свои надежды и желания на следующий год."
+    },
+    {
+        "id": 201,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, подготовь список целей и шагов для их достижения в новом году."
+    },
+    {
+        "id": 202,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, сделай из бумаги волшебную палочку."
+    },
+    {
+        "id": 203,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, придумай зимнюю сказку и расскажи друзьям или семье."
+    },
+    {
+        "id": 204,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, создай свой рождественский комикс."
+    },
+    {
+        "id": 205,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, проведи вечер с книгой о зимних чудесах."
+    },
+    {
+        "id": 206,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, играй в лучшую снежную игру с друзьями."
+    },
+    {
+        "id": 207,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, сделай фотографию с зимним пейзажем."
+    },
+    {
+        "id": 208,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, попробуй покататься на коньках."
+    },
+    {
+        "id": 209,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, пройди длинную прогулку и почувствуй зимнюю свежесть."
+    },
+    {
+        "id": 210,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "christmas_eve"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, помоги украсить дом красивыми игрушками."
+    },
+    {
+        "id": 211,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "christmas_day"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, скажи всем в семье свое любимое пожелание."
+    },
+    {
+        "id": 212,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, сделай список целей на следующий год."
+    },
+    {
+        "id": 213,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, напиши письмо себе в будущем."
+    },
+    {
+        "id": 214,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, составь план развития на год вперед."
+    },
+    {
+        "id": 215,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, нарисуй снеговика с тремя большими снежками."
+    },
+    {
+        "id": 216,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, сделай бумажного зайчика для зимней сказки."
+    },
+    {
+        "id": 217,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, поиграй с мамой или папой в снежки."
+    },
+    {
+        "id": 218,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, накройте кормушку для птиц в саду."
+    },
+    {
+        "id": 219,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, придумай и разрисуй новогодний плакат."
+    },
+    {
+        "id": 220,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, напиши список добрых дел на декабрь."
+    },
+    {
+        "id": 221,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, слепи из снега зверюшку и дай ей имя."
+    },
+    {
+        "id": 222,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, устрой семейную зимнюю игру на улице."
+    },
+    {
+        "id": 223,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, напиши историю о зимнем чуде."
+    },
+    {
+        "id": 224,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, создай коллаж из зимних фотографий."
+    },
+    {
+        "id": 225,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, сходи на зимнюю прогулку с друзьями."
+    },
+    {
+        "id": 226,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, сфотографируй красивый зимний пейзаж."
+    },
+    {
+        "id": 227,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, составь план здоровья на зиму."
+    },
+    {
+        "id": 228,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, начни утро с йоги и медитации."
+    },
+    {
+        "id": 229,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, организуй прогулку с друзьями на лыжах."
+    },
+    {
+        "id": 230,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, посети зимний рынок с семьёй."
+    },
+    {
+        "id": 231,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "christmas_eve"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, помоги запаковать подарки для друзей."
+    },
+    {
+        "id": 232,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "christmas_day"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, поздравь всех с Рождеством своим рисунком."
+    },
+    {
+        "id": 233,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, создай новогоднюю открытку с блестками."
+    },
+    {
+        "id": 234,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "christmas_eve"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, сочини песенку про зимних животных."
+    },
+    {
+        "id": 235,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "christmas_day"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, помоги накрыть праздничный стол."
+    },
+    {
+        "id": 236,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, создай план новогодних игр с семьёй."
+    },
+    {
+        "id": 237,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "christmas_eve"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, устрой викторину на зимние темы для друзей."
+    },
+    {
+        "id": 238,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "christmas_day"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, напиши статью о зимних традициях своей семьи."
+    },
+    {
+        "id": 239,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, сделай видеообращение с новогодними поздравлениями."
+    },
+    {
+        "id": 240,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "christmas_eve"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, организуй вечер зимних рассказов и творчества."
+    },
+    {
+        "id": 241,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "christmas_day"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, укрась дом свечами и зимними украшениями."
+    },
+    {
+        "id": 242,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, запиши три важных урока ушедшего года."
+    },
+    {
+        "id": 243,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, сыграй в зимнего зверька с друзьями."
+    },
+    {
+        "id": 244,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, построй снежную фигурку на улице."
+    },
+    {
+        "id": 245,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, сделай бумажный фонарик и укрась им комнату."
+    },
+    {
+        "id": 246,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, помоги приготовить горячий шоколад для семьи."
+    },
+    {
+        "id": 247,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, создай зимнюю афишу для школьного мероприятия."
+    },
+    {
+        "id": 248,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, подведи итоги года и поставь цели на будущее."
+    },
+    {
+        "id": 249,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, сделай волшебную палочку из бумаги и блесток."
+    },
+    {
+        "id": 250,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, придумай новогодний танец и покажи семье."
+    },
+    {
+        "id": 306,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, нарисуй снежинку! 🎅 Ты молодец, Дед Мороз гордится тобой!"
+    },
+    {
+        "id": 307,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, слепи снежка! 🎅 Отдохни сегодня, хороший мальчик/девочка!"
+    },
+    {
+        "id": 308,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, спой песенку! 🎅 Дед Мороз видит твою улыбку!"
+    },
+    {
+        "id": 309,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, найди снежинку! 🎅 Ты лучший помощник Санты!"
+    },
+    {
+        "id": 310,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, построй снежка! 🎅 Дед Мороз рад твоему веселью!"
+    },
+    {
+        "id": 311,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, напиши пожелание! 🎅 Ты умница, Дед Мороз верит в тебя!"
+    },
+    {
+        "id": 312,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, нарисуй оленя! 🎅 Отдохни сладко, добрый помощник!"
+    },
+    {
+        "id": 313,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, сделай звезду! 🎅 Дед Мороз видит твое сердце!"
+    },
+    {
+        "id": 314,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, слепи снеговика! 🎅 Ты супер, Дед Мороз доволен!"
+    },
+    {
+        "id": 315,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, поиграй в снежки! 🎅 Дед Мороз посылает тепло!"
+    },
+    {
+        "id": 316,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, напиши мечту! 🎅 Ты молодец, Дед Мороз гордится!"
+    },
+    {
+        "id": 317,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, создай гирлянду! 🎅 Отдохни, ты заслужил!"
+    },
+    {
+        "id": 318,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, спой колядку! 🎅 Дед Мороз видит твой свет!"
+    },
+    {
+        "id": 319,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, катайся на санках! 🎅 Ты лучший, Дед Мороз рад!"
+    },
+    {
+        "id": 320,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, гуляй с друзьями! 🎅 Дед Мороз посылает удачу!"
+    },
+    {
+        "id": 321,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, запиши цель! 🎅 Ты молодец, Дед Мороз верит!"
+    },
+    {
+        "id": 322,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, сделай план! 🎅 Отдохни спокойно сегодня!"
+    },
+    {
+        "id": 323,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, напиши мечту! 🎅 Дед Мороз видит твое тепло!"
+    },
+    {
+        "id": 324,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, гуляй в парке! 🎅 Ты супер, Дед Мороз горд!"
+    },
+    {
+        "id": 325,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, наслаждайся зимой! 🎅 Дед Мороз посылает радость!"
+    },
+    {
+        "id": 326,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "christmas_eve"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, зажги свечку! 🎅 Дед Мороз готовит сюрприз!"
+    },
+    {
+        "id": 327,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "christmas_day"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, обними всех! 🎅 Ты лучший, Дед Мороз счастлив!"
+    },
+    {
+        "id": 328,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "christmas_eve"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, напиши Деду! 🎅 Ты умница, отдыхай!"
+    },
+    {
+        "id": 329,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "christmas_day"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, спой песню! 🎅 Дед Мороз видит твое сердце!"
+    },
+    {
+        "id": 330,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "christmas_eve"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, сделай звезду! 🎅 Ты молодец, Дед Мороз рад!"
+    },
+    {
+        "id": 331,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "christmas_day"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, расскажи сказку! 🎅 Отдохни сладко сегодня!"
+    },
+    {
+        "id": 332,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "christmas_eve"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, вспомни чудо! 🎅 Дед Мороз посылает тепло!"
+    },
+    {
+        "id": 333,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "christmas_day"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, разделись теплом! 🎅 Ты лучший помощник!"
+    },
+    {
+        "id": 334,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, нарисуй мечту! 🎅 Дед Мороз исполнит желание!"
+    },
+    {
+        "id": 335,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, напиши цель! 🎅 Ты умница, отдыхай!"
+    },
+    {
+        "id": 336,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, создай план! 🎅 Дед Мороз верит в тебя!"
+    },
+    {
+        "id": 337,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, напиши мечту! 🎅 Ты молодец, Дед Мороз горд!"
+    },
+    {
+        "id": 338,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, сделай снежку! 🎅 Дед Мороз видит улыбку!"
+    },
+    {
+        "id": 339,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, нарисуй домик! 🎅 Отдохни спокойно!"
+    },
+    {
+        "id": 340,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, напиши стих! 🎅 Ты супер, Дед Мороз рад!"
+    },
+    {
+        "id": 341,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, запланируй! 🎅 Дед Мороз посылает силы!"
+    },
+    {
+        "id": 342,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, играй в снегу! 🎅 Ты лучший друг Санты!"
+    },
+    {
+        "id": 343,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, катайся с горки! 🎅 Дед Мороз видит веселье!"
+    },
+    {
+        "id": 344,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, гуляй с друзьями! 🎅 Ты молодец навсегда!"
+    },
+    {
+        "id": 345,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, дыши зимой! 🎅 Дед Мороз посылает чудо!"
+    },
+    {
+        "id": 346,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "christmas_eve"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, укрась ёлку! 🎅 Дед Мороз уже близко!"
+    },
+    {
+        "id": 347,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "christmas_day"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, поздоровайся! 🎅 Ты лучший в мире!"
+    },
+    {
+        "id": 348,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, мечтай смело! 🎅 Дед Мороз исполнит всё!"
+    },
+    {
+        "id": 349,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, начинай год! 🎅 Ты гений, отдыхай!"
+    },
+    {
+        "id": 350,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, рисуй радугу! 🎅 Дед Мороз видит талант!"
+    },
+    {
+        "id": 351,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, твори чудо! 🎅 Ты волшебник Санты!"
+    },
+    {
+        "id": 352,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, создавай! 🎅 Дед Мороз посылает вдохновение!"
+    },
+    {
+        "id": 353,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, мечтай крупно! 🎅 Ты лучший на свете!"
+    },
+    {
+        "id": 354,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, танцуй в снегу! 🎅 Дед Мороз смеётся с тобой!"
+    },
+    {
+        "id": 355,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, пой снегом! 🎅 Ты звезда Санты!"
+    },
+    {
+        "id": 356,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, живи ярко! 🎅 Дед Мороз дарит счастье!"
+    },
+    {
+        "id": 357,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, будь собой! 🎅 Дед Мороз всегда рядом!"
+    },
+    {
+        "id": 358,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "christmas_eve"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, жди чуда! 🎅 Дед Мороз уже летит!"
+    },
+    {
+        "id": 359,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "christmas_day"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, радуйся! 🎅 Ты лучший подарок!"
+    },
+    {
+        "id": 360,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, верь мечте! 🎅 Дед Мороз исполняет!"
+    },
+    {
+        "id": 361,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, сделай снежный домик из бумаги."
+    },
+    {
+        "id": 362,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, нарисуй зимнюю радугу из леденцов."
+    },
+    {
+        "id": 363,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, устрой снежный парад с игрушками."
+    },
+    {
+        "id": 364,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, создай зимний театр теней."
+    },
+    {
+        "id": 365,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, напиши новогодний манускрипт."
+    },
+    {
+        "id": 366,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, построй снежную крепость мечты."
+    },
+    {
+        "id": 367,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, составь зимний манифест счастья."
+    },
+    {
+        "id": 368,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, создай карту своих звёздных желаний."
+    },
+    {
+        "id": 369,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, устрой зимний квест по снегу."
+    },
+    {
+        "id": 370,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, напиши завещание добрых дел."
+    },
+    {
+        "id": 371,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, создай семейную капсулу времени."
+    },
+    {
+        "id": 372,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, пройди тропу зимних размышлений."
+    },
+    {
+        "id": 373,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "christmas_eve"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, сделай волшебный фонарик."
+    },
+    {
+        "id": 374,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "christmas_day"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, расскажи звёздную сказку семье."
+    },
+    {
+        "id": 375,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, создай карту добрых дел года."
+    },
+    {
+        "id": 376,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "christmas_eve"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, напиши звёздное послание миру."
+    },
+    {
+        "id": 377,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "christmas_day"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, устрой вечер сказок у камина."
+    },
+    {
+        "id": 378,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, составь хартию нового начала."
+    },
+    {
+        "id": 379,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, слепи снежного друга из теста."
+    },
+    {
+        "id": 380,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, устрой снежный олимпийский день."
+    },
+    {
+        "id": 381,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, создай зимний арт-проект души."
+    },
+    {
+        "id": 382,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, встреть рассвет в зимнем лесу."
+    },
+    {
+        "id": 383,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, нарисуй счастливую звезду года."
+    },
+    {
+        "id": 384,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "christmas_eve"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, создай рождественский кодекс."
+    },
+    {
+        "id": 385,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, напиши клятву счастья года."
+    },
+    {
+        "id": 386,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "christmas_day"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, устрой ритуал семейного тепла."
+    },
+    {
+        "id": 387,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, устрой снежный балет птицам."
+    },
+    {
+        "id": 388,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, создай зимний оркестр из игрушек."
+    },
+    {
+        "id": 389,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, устрой звёздную ночную прогулку."
+    },
+    {
+        "id": 390,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, напиши эпилог уходящего года."
+    },
+    {
+        "id": 391,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "christmas_day"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, сделай снежный ангел из бумаги."
+    },
+    {
+        "id": 392,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, создай карту звёздных обещаний."
+    },
+    {
+        "id": 393,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "christmas_eve"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, устрой вечер свечей и молитв."
+    },
+    {
+        "id": 394,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, напиши пролог новой жизни."
+    },
+    {
+        "id": 395,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, нарисуй домик для снежинок."
+    },
+    {
+        "id": 396,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, устрой снежный фестиваль талантов."
+    },
+    {
+        "id": 397,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "weekday"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, создай зимний дневник мечты."
+    },
+    {
+        "id": 398,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "weekend"
+        ],
+        "is_outdoor": true,
+        "text": "{name}, встреть полночь под звёздами."
+    },
+    {
+        "id": 399,
+        "min_age": 0,
+        "max_age": 6,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, сделай волшебный снежный шар."
+    },
+    {
+        "id": 400,
+        "min_age": 7,
+        "max_age": 10,
+        "day_types": [
+            "christmas_day"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, устрой рождественский хоровод."
+    },
+    {
+        "id": 401,
+        "min_age": 11,
+        "max_age": 18,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, создай звёздный кодекс года."
+    },
+    {
+        "id": 402,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "christmas_eve"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, устрой вечер тишины и света."
+    },
+    {
+        "id": 403,
+        "min_age": 18,
+        "max_age": 99,
+        "day_types": [
+            "new_year"
+        ],
+        "is_outdoor": false,
+        "text": "{name}, начни новый год с доброго дела."
+    }
+]
