@@ -25,6 +25,7 @@ async def main():
     payments.register_handlers(dp)
 
     logger.info(f"🎄 Starting Advent Bot RU in ENV={ENV}")
+    await bot.delete_webhook(drop_pending_updates=True)
     await dp.start_polling(bot)
 
 
