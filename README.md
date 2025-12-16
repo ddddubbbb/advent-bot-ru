@@ -6,36 +6,36 @@
 
 ## 📁 Структура проекта
 
+```bash
 advent-bot-ru/
 ├─ data/
-│ └─ storage.json # данные детей и заданий
+│  └─ storage.json          # данные детей и заданий
 ├─ handlers/
-│ ├─ start.py # /start, главное меню, обратная связь
-│ ├─ tasks.py # задания на сегодня, выполнено, reroll
-│ ├─ children.py # добавление/удаление детей
-│ ├─ stats.py # статистика по ребёнку
-│ └─ payments.py # 🎅 Новогодний магазин, Stars, инвойсы
+│  ├─ start.py              # /start, главное меню, обратная связь
+│  ├─ tasks.py              # задания на сегодня, выполнено, reroll
+│  ├─ children.py           # добавление/удаление детей
+│  ├─ stats.py              # статистика по ребёнку
+│  └─ payments.py           # 🎅 Новогодний магазин, Stars, инвойсы
 ├─ models/
-│ ├─ storage.py # работа с storage.json
-│ ├─ task_picker.py # выбор заданий по правилам
-│ └─ timezones.py # часовые пояса
+│  ├─ storage.py            # работа с storage.json
+│  ├─ task_picker.py        # выбор заданий по правилам
+│  └─ timezones.py          # часовые пояса
 ├─ utils/
-│ └─ calendar_logic.py # проверка «декабрь», работа с датами
-├─ tasks_ru.json # база текстов заданий
+│  └─ calendar_logic.py     # проверка «декабрь», работа с датами
+├─ tasks_ru.json            # база текстов заданий
 ├─ tests/
-│ ├─ test_storage.py
-│ ├─ test_tasks_handlers.py
-│ ├─ test_payments_reroll.py
-│ ├─ test_payments_calendar.py
-│ ├─ test_stats.py
-│ ├─ test_children_delete.py
-│ ├─ test_task_picker_used_tasks.py
-│ ├─ test_main_flow_two_children.py
-│ └─ test_shop_menu_texts.py
-├─ main.py # точка входа бота (Bot + Dispatcher + run_polling)
+│  ├─ test_storage.py
+│  ├─ test_tasks_handlers.py
+│  ├─ test_payments_reroll.py
+│  ├─ test_payments_calendar.py
+│  ├─ test_stats.py
+│  ├─ test_children_delete.py
+│  ├─ test_task_picker_used_tasks.py
+│  ├─ test_main_flow_two_children.py
+│  └─ test_shop_menu_texts.py
+├─ main.py                  # точка входа бота
 ├─ requirements.txt
 └─ README.md
-
 
 ## ⚙️ Что умеет бот
 
